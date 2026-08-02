@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const API = axios.create({
-  baseURL: "https://dinenavigator.onrender.com",
+  baseURL: "https://dinenavigator.onrender.com/api",
 });
 
 // Attach JWT Token Automatically
