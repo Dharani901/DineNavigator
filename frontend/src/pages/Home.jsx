@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import API from "../services/api";
 
 import Navbar from "../components/layout/Navbar";
-import Hero from "../components/home/Hero";
+import Hero from "../components/home/hero";
 import SearchBar from "../components/home/SearchBar";
 import PopularCuisine from "../components/home/PopularCuisine";
 import RestaurantGrid from "../components/restaurant/RestaurantGrid";
